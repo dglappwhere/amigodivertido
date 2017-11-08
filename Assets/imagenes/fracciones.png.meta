@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 28e40433bc40ffb48b10ffc83194d137
+timeCreated: 1449960342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fracciones_0
+    21300002: fracciones_1
+    21300004: fracciones_2
+    21300006: fracciones_3
+    21300008: fracciones_4
+    21300010: fracciones_5
+    21300012: fracciones_6
+    21300014: fracciones_7
+    21300016: fracciones_8
+    21300018: fracciones_9
+    21300020: fracciones_10
+    21300022: fracciones_11
+    21300024: fracciones_12
+    21300026: fracciones_13
+    21300028: fracciones_14
+    21300030: fracciones_15
+    21300032: fracciones_16
+    21300034: fracciones_17
+    21300036: fracciones_18
+    21300038: fracciones_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fracciones_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 538
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 539
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 539
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 539
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 538
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 388
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 383
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 383
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 388
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 301
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 301
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 223
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 144
+        width: 354
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 143
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 214
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 64
+        width: 215
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fracciones_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 64
+        width: 144
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
